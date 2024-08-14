@@ -31,7 +31,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/jaimeirazabal1/habit-tracker
    cd tu-repositorio
    ```
 
